@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PLIK XML EKRANU POWITALNEGO -->
+<LinearLayout
+    android:id="@+id/WelcomeLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_list_welcome">
+    <ImageView
+        android:contentDescription="Start"
+        android:id="@+id/Logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:src="@drawable/ikona"/>
+    <TextView
+        android:id="@+id/Welcoming"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/black"
+        android:padding="30dp"/>
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp" />
+    <TextView
+        android:id="@+id/Autorzy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:padding="15dp"
+        android:text="@string/Authors"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-thin"
+        android:textAlignment="center"/>
+</LinearLayout>

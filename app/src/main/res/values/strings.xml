@@ -1,0 +1,22 @@
+<resources>
+    <!-- Plik res zawierający niezbędne stringi (dla ułatwienia) -->
+    <string name="app_name">PWI Weather Application</string>
+    <string name="Author_1">Bartosz Jakubski</string>
+    <string name="Author_2">Kamil Szurgot</string>
+    <string name="Authors">Bartosz Jakubski\nKamil Szurgot</string>
+    <string name="user_input">Wpisz miejsce</string>
+    <string name="check">Sprawdź</string>
+    <string name="sunrise">Wschód</string>
+    <string name="sunset">Zachód</string>
+    <string name="humidity">Wilgotność</string>
+    <string name="pressure">Ciśnienie</string>
+    <string name="tempmin">Temp min</string>
+    <string name="tempmax">Temp max</string>
+    <string name="wind">Wiatr</string>
+    <string name="feelslike">Odczuwalnie</string>
+    <string name="clouds">Zachmurzenie</string>
+    <string name="rain">Opady</string>
+    <string name="api_error">Nie udało się pobrać danych</string>
+    <string name="fav">Zapisz</string>
+    <string name="start">Witaj!</string>
+</resources>
