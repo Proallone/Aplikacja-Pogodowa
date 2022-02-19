@@ -7,4 +7,4 @@ Aplikacja wykorzystuje zewnętrzne API dostępne pod adresem https://openweather
 
 ![main1](https://github.com/Proallone/Aplikacja-Pogodowa/blob/master/main.png)
 
-![main2](https://github.com/Proallone/Aplikacja-Pogodowa/blob/master/lmain2.png)
+![main2](https://github.com/Proallone/Aplikacja-Pogodowa/blob/master/main2.png)
